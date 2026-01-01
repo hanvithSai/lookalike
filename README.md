@@ -1,4 +1,4 @@
-# Face Recognition Model
+# LookAlike : Face Recognition Model
 
 <img width="1221" alt="Screenshot 2024-11-07 at 17 26 29" src="https://github.com/user-attachments/assets/6e1eb8e6-6a79-4c28-8e00-35293e08df31">
 
